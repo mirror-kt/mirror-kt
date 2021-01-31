@@ -6,6 +6,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirror-kt&langs_count=3&theme=onedark" />
 </a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mirror-kt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🏫 School
