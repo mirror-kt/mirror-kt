@@ -1,25 +1,19 @@
 # Hi, I'm @mirror-kt 🐶
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mirror-kt&count_private=true&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirror-kt&langs_count=3&theme=onedark" />
-</a>
+1. I'm a web backend developer from Japan.
+2. My favorites are Rust, Kotlin, Docker, and fish.
+3. TODO: write tech blog
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mirror-kt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![contribution graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirror-kt&theme=nord_dark)
 
-## 🏫 School
-National Institute of Technology, Kurume College, Department of Mechanical Engineering
+## Programming Languages
 
-## 💪 Skills
+[![programming languages icons](https://skillicons.dev/icons?i=rust,wasm,kotlin,typescript,javascript,php&theme=dark)](https://skillicons.dev)
 
-* Kotlin
-  * Kotlin/JVM
-  * Kotlin/JS
-  * Kotlin/Native
-* Rust
-  * WASM
-* TypeScript
-  * React
+## Frameworks and Libraries
 
+[![frameworks and libraries icons](https://skillicons.dev/icons?i=ktor,laravel,react,tauri&theme=dark)](https://skillicons.dev)
+
+## Developer Tools
+
+[![developer tools icons](https://skillicons.dev/icons?i=arch,idea,vscode,mysql,cloudflare,gcp&theme=dark)](https://skillicons.dev)
